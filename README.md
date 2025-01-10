@@ -96,5 +96,4 @@ const skillTree = {
 
 ---
 
-<!-- Add this for extra flair -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+
