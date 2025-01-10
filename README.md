@@ -18,7 +18,7 @@ class MysteriousBuilder:
     def __init__(self):
         self.status = "Building in stealth 🥷"
         self.power_level = "Over 9000!"
-        self.mission = "// TODO: Decode the mysteries of algo trading"
+        self.mission = "// TODO: Change the world"
 ```
 
 ---
@@ -26,7 +26,7 @@ class MysteriousBuilder:
 ### 🌊 Current Timeline Arc  
 
 - 🎯 **Building:** An AI-powered algorithmic trading system with a touch of mystery  
-- 🔮 **Exploring:** The crossroads of anime × tech × innovation  
+- 🔮 **Exploring:** The crossroads of [anime × tech × innovation]  
 - 🎨 **Fueling:** Caffeine-driven coding marathons and inspired breakthroughs  
 
 ---
@@ -36,7 +36,7 @@ class MysteriousBuilder:
 ```javascript
 const skillTree = {
     battle_techniques: ['C++', 'Java', 'Angular'],
-    secret_weapons: ['Machine Learning', 'Data Analysis', 'Node.js'],
+    secret_weapons: ['AI Chat bot','Machine Learning', 'Data Analysis', 'Node.js'],
     special_move: 'Building the future while binge-watching anime'
 }
 ```
@@ -46,7 +46,7 @@ const skillTree = {
 ### 📈 Trending in My Universe  
 
 - 🔥 **Currently Watching:**  
-  - *Attack on Titan: The Final Season*  
+  - *Solo Leveling*  
   - *Jujutsu Kaisen Season 2*  
 - 📚 **Currently Reading Manhwa:**  
   - *Eleceed*  
