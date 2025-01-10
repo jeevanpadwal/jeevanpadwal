@@ -10,7 +10,7 @@
 ---
 
 ### 🎭 The Plot Twist  
-While others see a developer, I'm secretly crafting something mysterious—like a protagonist uncovering hidden powers. **Imagine blending AI, algorithms, and trading in a way that feels almost magical.**  
+While others see a developer, I'm secretly crafting something mysterious—like a protagonist uncovering hidden powers. 
 Stay tuned—this arc is about to get interesting! 😉  
 
 ```python
@@ -44,22 +44,11 @@ const skillTree = {
 ---
 
 ### 📈 Trending in My Universe  
-
-- 🔥 **Currently Watching:**  
-  - *Solo Leveling*  
-  - *Jujutsu Kaisen Season 2*  
-- 📚 **Currently Reading Manhwa:**  
-  - *Eleceed*  
-  - *Murim Login*  
-  - *Return of the Mount Hua Sect*  
 - 🤖 **Researching:** Algo trading with an AI twist that makes even **Dr. Stone’s Senku** take notes  
 
 ---
 
 ### 🎮 Side Quests  
-
-- 🌸 **Anime watched this week:** 4 episodes  
-- 🎋 **Current favorite OST:** *"Unravel" from Tokyo Ghoul*  
 - 🔮 **Debug Sessions:** Infinite 🤓  
 
 ---
